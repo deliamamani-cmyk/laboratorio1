@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.angular/cache/
+lab1_backup/
+.DS_Store
+.env
